@@ -1,0 +1,9 @@
+Building PointCoin
+
+See doc/readme-qt.rst for instructions on building PointCoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PointCoin.
+
+See doc/build-*.txt for instructions on building PointCoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of PointCoin.
